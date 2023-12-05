@@ -1,9 +1,9 @@
 {
-    "require": {
-        "php-webdriver/webdriver": "dev-main",
-        "phpunit/phpunit-selenium": "^8.0.0"
-    },
-    "scripts": {
+  "require": {
+    "php-webdriver/webdriver": "dev-main",
+    "phpunit/phpunit-selenium": "^9.0.0"
+  },
+  "scripts": {
     "test": "php Lambdatest.php"
   }
 }
